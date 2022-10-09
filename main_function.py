@@ -1,6 +1,10 @@
 # Python program to use
 # main for function call.
-import add_procedural
+import add_functional
+import absolute_diff_functional
 
 if __name__ == "__main__":
-    add_procedural.my_function()
+    x = int(input())
+    y = int(input())
+    add_functional.my_function(x,y)
+    absolute_diff_functional.absfunc()
