@@ -7,4 +7,4 @@ if __name__ == "__main__":
     x = int(input())
     y = int(input())
     add_functional.my_function(x,y)
-    absolute_diff_functional.absfunc()
+    absolute_diff_functional.absfunc(x,y)

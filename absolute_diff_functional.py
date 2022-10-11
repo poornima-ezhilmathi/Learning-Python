@@ -1,3 +1,5 @@
-def absfunc():
-    x = abs(5 + 8j)
+def absfunc(x,y):
+    y = abs(x)
+    z =abs(y)
     print(x)
+    print(y)
