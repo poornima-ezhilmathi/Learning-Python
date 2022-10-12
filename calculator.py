@@ -31,32 +31,32 @@ print("(7) Find Square of a number(**)")
 
 while True:
     # input from the user
-    choice = input("Enter your choice(1/2/3/4/5/6/7): ")
+    user_choice = input("Enter your choice(1/2/3/4/5/6/7): ")
 
-    # check if choice is one of the four options
-    if choice in ('1', '2', '3', '4', '5', '6','7'):
+
+    if user_choice in ('1', '2', '3', '4', '5', '6','7'):
         x = float(input("Enter first number: "))
         y = float(input("Enter second number: "))
 
-        if choice == '1':
+        if user_choice == '1':
             print(x, "+", y, "=", add(x, y))
 
-        elif choice == '2':
+        elif user_choice == '2':
             print(x, "-", y, "=", subtract(x, y))
 
-        elif choice == '3':
+        elif user_choice == '3':
             print(x, "*", y, "=", multiply(x, y))
 
-        elif choice == '4':
+        elif user_choice == '4':
             print(x, "/", y, "=", divide(x, y))
 
-        elif choice == '5':
+        elif user_choice == '5':
             print(x, "%", y, "=", divide(x, y))
 
-        elif choice == '6':
+        elif user_choice == '6':
             print(x, "//", y, "=", divide(x, y))
 
-        elif choice == '7':
+        elif user_choice == '7':
             print(x, "**", y, "=", divide(x, y))
 
         next_operation = input("Let's do next calculation? (yes/no): ")
