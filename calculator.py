@@ -12,11 +12,14 @@ def multiply(x, y):
 def divide(x, y):
     return x / y
 
-def divide(x, y):
+def reminder(x, y):
     return x % y
 
-def divide(x, y):
+def quotient(x, y):
     return x // y
+
+def square(x, y):
+    return x ** y
 
 
 print("Choose an option from the following")
@@ -51,13 +54,13 @@ while True:
             print(x, "/", y, "=", divide(x, y))
 
         elif user_choice == '5':
-            print(x, "%", y, "=", divide(x, y))
+            print(x, "%", y, "=", reminder(x, y))
 
         elif user_choice == '6':
-            print(x, "//", y, "=", divide(x, y))
+            print(x, "//", y, "=", quotient(x, y))
 
         elif user_choice == '7':
-            print(x, "**", y, "=", divide(x, y))
+            print(x, "**", y, "=", square(x, y))
 
         next_operation = input("Continue with next calculation? (yes/no): ")
         if next_operation == "no":
