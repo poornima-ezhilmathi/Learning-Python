@@ -59,7 +59,7 @@ while True:
         elif user_choice == '7':
             print(x, "**", y, "=", divide(x, y))
 
-        next_operation = input("Let's do next calculation? (yes/no): ")
+        next_operation = input("Continue with next calculation? (yes/no): ")
         if next_operation == "no":
             break
 
