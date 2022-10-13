@@ -43,7 +43,7 @@ if x>0 and y>0 and choice in ('1','2','3','4','5','6','7','8'):
           print(exponent(x, y))
     elif choice == '8':
          print(square(x, y))
-    next_operation = input("do you want to continue? (yes/no):")
+    next_operation = input("Do you wish to continue? (yes/no):")
     if next_operation == "no":
        exit()
 else:
