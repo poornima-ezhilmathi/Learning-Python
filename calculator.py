@@ -48,11 +48,3 @@ if x>0 and y>0 and choice in ('1','2','3','4','5','6','7','8'):
        exit()
 else:
     print("Invalid input")
-
-
-
-
-
-
-
-
