@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0515ac78-160f-4bfd-9441-195f30e5d6d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/alternate_index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index_alter.py" afterDir="false" />
+    <list default="true" id="0515ac78-160f-4bfd-9441-195f30e5d6d2" name="Changes" comment="continue and break">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -386,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667284460303</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="continue and break">
+      <created>1667991739788</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1667991739788</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -410,6 +415,7 @@
     <MESSAGE value="calculator" />
     <MESSAGE value="string_indexing_operations" />
     <MESSAGE value="string_slicing_operations" />
-    <option name="LAST_COMMIT_MESSAGE" value="string_slicing_operations" />
+    <MESSAGE value="continue and break" />
+    <option name="LAST_COMMIT_MESSAGE" value="continue and break" />
   </component>
 </project>
