@@ -22,7 +22,7 @@ def odd_number_using_while():
     out = 0
     print("Printing {0} odd numbers after {1}:".format(pnum, val))
 
-    while out <= pnum:
+    while out < pnum:
         if val % 2 == 0:
             val = val + 1
         else:
