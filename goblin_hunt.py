@@ -1,6 +1,6 @@
 def goblin_hunt():
     print("Welcome to the Angry Goblin Hunt")
-    print("n award-winning game full of adventure and excitement (!)")
+    print("An award-winning game full of adventure and excitement (!)")
     input("Type in your name:")
     print("Stephen, do you think you can find the goblin hiding in the kitchen cupboards?")
     print("|_||_||_||_||_|")
