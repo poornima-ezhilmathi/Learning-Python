@@ -4,7 +4,6 @@ def goblin_hunt():
     input("Type in your name:")
     print("Stephen, do you think you can find the goblin hiding in the kitchen cupboards?")
     print("|_||_||_||_||_|")
-    i=0
     while True:
           val=int(input("Which cupboard do you think the goblin is in [type in number]:"))
           if val==3:
