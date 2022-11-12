@@ -7,7 +7,6 @@ def goblin_hunt():
     while True:
           val=int(input("Which cupboard do you think the goblin is in [type in number]:"))
           if val==3:
-            False
             print("Well done!! You have found the goblin. He was so scared he ran away.")
             break
           else:
