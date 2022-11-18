@@ -8,12 +8,14 @@ def print_fibonacci():
     count =0
     val =0
     val1 =1
-    if num ==1:
-        val1=1
+    if num == 1:
         print(val1)
+        pnum=pnum-1
     while count < pnum:
            if val1>num:
               print(val1)
+           else:
+               pnum +=1
            if val >= 0:
                # print(val1)
                out = val + val1
