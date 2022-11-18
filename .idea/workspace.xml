@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature_odd_number_using_while.py" />
+        <entry key="$PROJECT_DIR$" value="feature_fibonacci.py" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -154,10 +154,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.goblin_hunt" />
-        <item itemvalue="Python.print_even_numbers" />
         <item itemvalue="Python.print_odd_numbers" />
-        <item itemvalue="Python.file" />
+        <item itemvalue="Python.print_even_numbers" />
         <item itemvalue="Python.index_alter" />
+        <item itemvalue="Python.file" />
       </list>
     </recent_temporary>
   </component>
