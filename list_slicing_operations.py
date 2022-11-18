@@ -1,5 +1,5 @@
 def lst_slicing_operations():
-    print("Enter a string value:")
+    print("Enter a list with values:")
     lst_val=list(input())
     print("You entered : '{0}'".format(lst_val))
     print("--------------------------------------------")
