@@ -1,6 +1,5 @@
 def lst_ind_operations():
-    lsize = int(input("Enter the number of sub list and the value in each list:"))
-    lst_val= [[(input("Enter a value and press enter")) for _ in range(lsize) ]for _ in range(lsize)]
+    lst_val=["Apple","Orange","Kiwi",[1,2,3]]
     print("You entered : '{0}'".format(lst_val))
     print("--------------------------------------------")
     print("First item in '{1}' is '{0}' " .format(lst_val[0],lst_val))
