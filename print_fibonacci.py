@@ -13,14 +13,14 @@ def print_fibonacci():
         pnum=pnum - 1
     if num == -1:
         print(val)
-        pnum = pnum - 2
+        pnum = pnum - 1
     while count < pnum:
            if val1>num:
               print(val1)
            else:
                print("here")
                pnum +=1
-           if val >= 0:
+           if val >= -1:
 
                # print(val1)
                out = val + val1
