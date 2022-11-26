@@ -1,6 +1,5 @@
 def lst_slicing_operations():
-    print("Enter a list with values:")
-    lst_val=list(input())
+    lst_val = ["Apple", "Orange", "Kiwi", [1, 2, 3]]
     print("You entered : '{0}'".format(lst_val))
     print("--------------------------------------------")
     print("Slice of '{1}' after removing first and last items '{0}' " .format(lst_val[1:-1],lst_val))
