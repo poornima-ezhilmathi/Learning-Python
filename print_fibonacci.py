@@ -11,7 +11,7 @@ def print_fibonacci():
     if num == 1:
         print(val1)
         pnum=pnum - 1
-    if num == -1 or num <= 0:
+    if num <= 0:
         print(val)
         pnum = pnum - 1
     while count < pnum:
