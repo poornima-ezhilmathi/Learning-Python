@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dict_average_marks" />
         <item itemvalue="Python.read_dictionary" />
-        <item itemvalue="Python.dictionary" />
-        <item itemvalue="Python.goblin_hunt" />
         <item itemvalue="Python.print_even_numbers" />
+        <item itemvalue="Python.goblin_hunt" />
+        <item itemvalue="Python.dictionary" />
+        <item itemvalue="Python.dict_average_marks" />
       </list>
     </recent_temporary>
   </component>

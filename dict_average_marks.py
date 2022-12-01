@@ -2,7 +2,7 @@ person={}
 cont = True
 u_input = "yes"
 while True:
-    name = input("Enter student name:")
+    name = input("Enter Student name:")
     marks = int(input("How much did {0} in maths:  ".format(name)))
     print("{0} scored {1} in Maths".format(name,marks))
     u_input = input("Do you want to add another student's score? (Yes/No):")
