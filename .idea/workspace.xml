@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0515ac78-160f-4bfd-9441-195f30e5d6d2" name="Changes" comment="dictionary homework">
-      <change afterPath="$PROJECT_DIR$/dict_average_marks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dict_average_marks.py" beforeDir="false" afterPath="$PROJECT_DIR$/dict_average_marks.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
