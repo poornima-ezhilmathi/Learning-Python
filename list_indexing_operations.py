@@ -1,5 +1,6 @@
 def lst_ind_operations():
-    lst_val=["Apple","Orange","Kiwi",[1,2,3]]
+    lst_val = int(input("Enter number of elements to insert into the list: "))
+    lst_val = list(map(int, input("\nEnter the numbers separated by comma(ex: 222,55,77) : ").strip().split(',')))[:lst_val]
     print("You entered : '{0}'".format(lst_val))
     print("--------------------------------------------")
     print("First item in '{1}' is '{0}' " .format(lst_val[0],lst_val))
